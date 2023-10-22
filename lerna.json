@@ -1,0 +1,5 @@
+{
+  "packages": ["app/frontend/packages/*"],
+  "version": "independent",
+  "useWorkspaces": true
+}
